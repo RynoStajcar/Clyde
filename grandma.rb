@@ -13,9 +13,5 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(voice)
-  if "I LOVE YOU GRANDMA!"
-    return "I LOVE YOU TOO PUMPKIN!"
-  else
-    return "HUH?! SPEAK UP, SONNY!"
-  end
+  return "HUH?! SPEAK UP, SONNY!"
 end
